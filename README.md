@@ -4,3 +4,6 @@ The Simon (game) device has four colored buttons, each producing a particular to
 
 # Tool Used
 HTML5 ,CSS3, JavaScript, jQuery, Google fonts
+
+# Website Link
+Link : https://riyatyag-6.github.io/Simon-Game/
